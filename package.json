@@ -21,7 +21,7 @@
       "requestedExecutionLevel": "requireAdministrator"
     },
     "nsis": {
-      "uninstallDisplayName": "CPU Monitor",
+      "uninstallDisplayName": "Simple Screen Recorder",
       "license": "license.txt",
       "oneClick": false,
       "allowToChangeInstallationDirectory": true,
